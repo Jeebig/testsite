@@ -3,21 +3,22 @@ body {
 }
 
 button {
-  width: 35px;
+  width: 25px;
 }
 
 h1 {
-  color: #FFFFFF;
+  color: #4B0082;
 }
 
 p {
-  font-size: 24pt;
+  font-size: 26pt;
 }
 
 table {
   border-collapse: collapse;
+  background-color: #B0E0E6;
 }
 
 td, th {
-  border: 1px solid black;
+  border: 1px solid red;
 }
